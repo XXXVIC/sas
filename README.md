@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta http-equiv="refresh" content="1;url=https://shre.su/L24M">
+    <title>Перенаправлення</title>
 </head>
 <body>
-    <p>Перенаправлення...</p>
+    <p>Перенаправлення через <a href="https://shre.su/L24M">це посилання</a>.</p>
 </body>
 </html>
